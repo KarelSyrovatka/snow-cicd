@@ -1,0 +1,117 @@
+name: Validate (build, install, ATF)
+
+on:
+  workflow_call:
+    inputs:
+      instance-url:
+        required: true
+        type: string
+      auth-type:
+        required: true
+        type: string
+      alias:
+        required: true
+        type: string
+      basic-username:
+        required: false
+        type: string
+    secrets:
+      basic-password:
+        required: false
+      oauth-client-id:
+        required: false
+      oauth-client-secret:
+        required: false
+
+jobs:
+  build-and-install-test:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Setup Node
+        uses: actions/setup-node@v4
+        with:
+          node-version: 24
+
+      - name: Install dependencies
+        run: npm ci
+
+      - name: Verify keys.ts is up to date
+        run: npx @servicenow/sdk build --frozenKeys
+
+      - name: now-sdk auth
+        id: auth
+        uses: ./.github/actions/sn-sdk-auth
+        with:
+          auth-type: ${{ inputs.auth-type }}
+          instance-url: ${{ inputs.instance-url }}
+          alias: ${{ inputs.alias }}
+          basic-username: ${{ inputs.basic-username }}
+          basic-password: ${{ secrets.basic-password }}
+          oauth-client-id: ${{ secrets.oauth-client-id }}
+          oauth-client-secret: ${{ secrets.oauth-client-secret }}
+
+      - name: Install on instance
+        run: npx @servicenow/sdk install
+
+  atf-test:
+    needs: build-and-install-test
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Setup Node
+        uses: actions/setup-node@v4
+        with:
+          node-version: 24
+
+      - name: Install dependencies
+        run: npm ci
+
+      - name: now-sdk auth
+        id: auth
+        uses: ./.github/actions/sn-sdk-auth
+        with:
+          auth-type: ${{ inputs.auth-type }}
+          instance-url: ${{ inputs.instance-url }}
+          alias: ${{ inputs.alias }}
+          basic-username: ${{ inputs.basic-username }}
+          basic-password: ${{ secrets.basic-password }}
+          oauth-client-id: ${{ secrets.oauth-client-id }}
+          oauth-client-secret: ${{ secrets.oauth-client-secret }}
+
+      - name: Run ATF regression suite
+        run: |
+          set +e
+          RESULT=$(npx @servicenow/sdk cicd testsuite run \
+            --test-suite-name "Dev Passport Brazil Regression Suite" \
+            ${{ steps.auth.outputs.cicd-auth-flag }} \
+            -o json)
+          EXIT_CODE=$?
+          echo "$RESULT"
+
+          MESSAGE=$(echo "$RESULT" | jq -r '.error.message // .result.message // empty' 2>/dev/null)
+          DETAILS_URL=$(echo "$MESSAGE" | grep -oE 'https://[^[:space:]]+' | head -1)
+
+          {
+            echo "## ATF Regression Suite Result"
+            echo
+            if [ -n "$MESSAGE" ]; then
+              echo '```'
+              echo "$MESSAGE"
+              echo '```'
+            else
+              echo '```json'
+              echo "$RESULT"
+              echo '```'
+            fi
+            if [ -n "$DETAILS_URL" ]; then
+              echo
+              echo "[Open test suite result on the instance]($DETAILS_URL)"
+            fi
+          } >> "$GITHUB_STEP_SUMMARY"
+
+          exit $EXIT_CODE
