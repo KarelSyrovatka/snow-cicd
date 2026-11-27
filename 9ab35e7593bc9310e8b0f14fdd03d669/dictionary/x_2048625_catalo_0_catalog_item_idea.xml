@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element attributes="enforce_dot_walk_cross_scope_access=true,no_attachment=false" audit="true" db_object_id="f99922dc7aec4068b084a801e488e812" label="Catalog Item Idea" name="x_2048625_catalo_0_catalog_item_idea" type="collection">
+        <element default="javascript:global.getNextObjNumberPadded();" label="Number" max_length="40" name="number" read_only="true" read_only_option="instance_configured" type="string"/>
+        <element label="Business Justification" max_length="4000" name="business_justification" type="multi_two_lines"/>
+        <element label="Target Go Live" name="target_go_live" type="glide_date"/>
+        <element hint="Full description of what the catalog item does" label="Long Description" max_length="4000" name="long_description" type="multi_two_lines"/>
+        <element hint="The stakeholder's team" label="Requesting Group" name="requesting_group" reference="sys_user_group" type="reference"/>
+        <element display="true" hint="Proposed name of the new catalog item" label="Catalog Item Name" mandatory="true" max_length="100" name="catalog_item_name" type="string"/>
+        <element hint="Anything else the catalog team should know" label="Fulfillment / Additional Notes" max_length="4000" name="additional_notes" type="multi_two_lines"/>
+        <element choice="3" default="other" label="Category" name="category" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="Access Request" sequence="300" value="access_request"/>
+                <element inactive_on_update="false" label="HR" sequence="500" value="hr"/>
+                <element inactive_on_update="false" label="Hardware" sequence="100" value="hardware"/>
+                <element inactive_on_update="false" label="Other" sequence="600" value="other"/>
+                <element inactive_on_update="false" label="Facilities" sequence="400" value="facilities"/>
+                <element inactive_on_update="false" label="Software" sequence="200" value="software"/>
+            </choice>
+        </element>
+        <element choice="3" default="draft" label="State" name="state" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="Implemented" sequence="600" value="implemented"/>
+                <element inactive_on_update="false" label="In Review" sequence="300" value="in_review"/>
+                <element inactive_on_update="false" label="Draft" sequence="100" value="draft"/>
+                <element inactive_on_update="false" label="Approved" sequence="400" value="approved"/>
+                <element inactive_on_update="false" label="Rejected" sequence="500" value="rejected"/>
+                <element inactive_on_update="false" label="Submitted" sequence="200" value="submitted"/>
+            </choice>
+        </element>
+        <element label="Short Description" mandatory="true" max_length="160" name="short_description" type="string"/>
+        <element choice="3" default="3" label="Priority" name="priority" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="Critical" sequence="100" value="1"/>
+                <element inactive_on_update="false" label="Moderate" sequence="300" value="3"/>
+                <element inactive_on_update="false" label="High" sequence="200" value="2"/>
+                <element inactive_on_update="false" label="Low" sequence="400" value="4"/>
+            </choice>
+        </element>
+        <element hint="For the catalog team" label="Review Comments" max_length="4000" name="review_comments" type="multi_two_lines"/>
+        <element hint="Describe the required approval stages and approvers" label="Approval Flow Definition" mandatory="true" max_length="4000" name="approval_flow_definition" type="multi_two_lines"/>
+        <element default="javascript:gs.getUserID();" label="Requested By" name="requested_by" reference="sys_user" type="reference"/>
+        <index name="index">
+            <element name="requested_by"/>
+        </index>
+        <index name="index2">
+            <element name="requesting_group"/>
+        </index>
+    </element>
+</database>

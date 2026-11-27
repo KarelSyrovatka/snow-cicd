@@ -1,0 +1,197 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_section caption="Catalog Item Idea" section_id="b635dd3b79e747f895065dbf38d022b8" sys_domain="global" table="x_2048625_catalo_0_catalog_item_idea" version="3" view="">
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.begin_split</element>
+            <position>0</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2026-11-27 13:34:14</sys_created_on>
+            <sys_id>690cc6ec949349d6902e4b5b2864ec71</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Catalog Item Idea" display_value="Catalog Item Idea" name="x_2048625_catalo_0_catalog_item_idea" sys_domain="global" view="Default view">b635dd3b79e747f895065dbf38d022b8</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2026-11-27 13:34:14</sys_updated_on>
+            <sys_user/>
+            <type>.begin_split</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>number</element>
+            <position>1</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2026-11-27 13:34:14</sys_created_on>
+            <sys_id>161ce679210049d0bb6360786795fa96</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Catalog Item Idea" display_value="Catalog Item Idea" name="x_2048625_catalo_0_catalog_item_idea" sys_domain="global" view="Default view">b635dd3b79e747f895065dbf38d022b8</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2026-11-27 13:34:14</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>catalog_item_name</element>
+            <position>2</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2026-11-27 13:34:14</sys_created_on>
+            <sys_id>70d346d3be9f4c66bb7f9f49ab190244</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Catalog Item Idea" display_value="Catalog Item Idea" name="x_2048625_catalo_0_catalog_item_idea" sys_domain="global" view="Default view">b635dd3b79e747f895065dbf38d022b8</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2026-11-27 13:34:14</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>requested_by</element>
+            <position>3</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2026-11-27 13:34:14</sys_created_on>
+            <sys_id>ded958e711d946449cb5d142c4aef753</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Catalog Item Idea" display_value="Catalog Item Idea" name="x_2048625_catalo_0_catalog_item_idea" sys_domain="global" view="Default view">b635dd3b79e747f895065dbf38d022b8</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2026-11-27 13:34:14</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>requesting_group</element>
+            <position>4</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2026-11-27 13:34:14</sys_created_on>
+            <sys_id>af9f60ba7a7b411dad01d8ddd62a6bde</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Catalog Item Idea" display_value="Catalog Item Idea" name="x_2048625_catalo_0_catalog_item_idea" sys_domain="global" view="Default view">b635dd3b79e747f895065dbf38d022b8</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2026-11-27 13:34:14</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.split</element>
+            <position>5</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2026-11-27 13:34:14</sys_created_on>
+            <sys_id>e9c48035327f4ddcb03d3c6cc5d41727</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Catalog Item Idea" display_value="Catalog Item Idea" name="x_2048625_catalo_0_catalog_item_idea" sys_domain="global" view="Default view">b635dd3b79e747f895065dbf38d022b8</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2026-11-27 13:34:14</sys_updated_on>
+            <sys_user/>
+            <type>.split</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>category</element>
+            <position>6</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2026-11-27 13:34:14</sys_created_on>
+            <sys_id>ef8d8639eda64b57b4c8431c31d521d7</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Catalog Item Idea" display_value="Catalog Item Idea" name="x_2048625_catalo_0_catalog_item_idea" sys_domain="global" view="Default view">b635dd3b79e747f895065dbf38d022b8</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2026-11-27 13:34:14</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>priority</element>
+            <position>7</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2026-11-27 13:34:14</sys_created_on>
+            <sys_id>d312e95890c8483dab8df5d68749af6f</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Catalog Item Idea" display_value="Catalog Item Idea" name="x_2048625_catalo_0_catalog_item_idea" sys_domain="global" view="Default view">b635dd3b79e747f895065dbf38d022b8</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2026-11-27 13:34:14</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>target_go_live</element>
+            <position>8</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2026-11-27 13:34:14</sys_created_on>
+            <sys_id>dc3fa8a37b3d448bb18b1b89d397ba4c</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Catalog Item Idea" display_value="Catalog Item Idea" name="x_2048625_catalo_0_catalog_item_idea" sys_domain="global" view="Default view">b635dd3b79e747f895065dbf38d022b8</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2026-11-27 13:34:14</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>state</element>
+            <position>9</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2026-11-27 13:34:14</sys_created_on>
+            <sys_id>dce365fdeb7d42de9089d66d8877db21</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Catalog Item Idea" display_value="Catalog Item Idea" name="x_2048625_catalo_0_catalog_item_idea" sys_domain="global" view="Default view">b635dd3b79e747f895065dbf38d022b8</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2026-11-27 13:34:14</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.end_split</element>
+            <position>10</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2026-11-27 13:34:14</sys_created_on>
+            <sys_id>f64854f4423e4ee0b543f3e047e33ccc</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Catalog Item Idea" display_value="Catalog Item Idea" name="x_2048625_catalo_0_catalog_item_idea" sys_domain="global" view="Default view">b635dd3b79e747f895065dbf38d022b8</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2026-11-27 13:34:14</sys_updated_on>
+            <sys_user/>
+            <type>.end_split</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>short_description</element>
+            <position>11</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2026-11-27 13:34:14</sys_created_on>
+            <sys_id>85edd079689646f782c087a4a282768a</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Catalog Item Idea" display_value="Catalog Item Idea" name="x_2048625_catalo_0_catalog_item_idea" sys_domain="global" view="Default view">b635dd3b79e747f895065dbf38d022b8</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2026-11-27 13:34:14</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_section action="INSERT_OR_UPDATE">
+            <caption>Catalog Item Idea</caption>
+            <header>false</header>
+            <name>x_2048625_catalo_0_catalog_item_idea</name>
+            <roles/>
+            <sys_class_name>sys_ui_section</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2026-11-27 13:34:14</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>b635dd3b79e747f895065dbf38d022b8</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>x_2048625_catalo_0_catalog_item_idea</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="Catalog Item Idea Intake" source="x_2048625_catalo_0">9ab35e7593bc9310e8b0f14fdd03d669</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Catalog Item Idea Intake">9ab35e7593bc9310e8b0f14fdd03d669</sys_scope>
+            <sys_update_name>sys_ui_section_b635dd3b79e747f895065dbf38d022b8</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2026-11-27 13:34:14</sys_updated_on>
+            <sys_user/>
+            <title>false</title>
+            <view display_value="Default view" name="NULL">Default view</view>
+            <view_name/>
+        </sys_ui_section>
+    </sys_ui_section>
+</record_update>

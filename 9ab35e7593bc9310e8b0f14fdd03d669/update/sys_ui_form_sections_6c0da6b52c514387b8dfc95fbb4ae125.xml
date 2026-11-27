@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_form_sections form_id="6c0da6b52c514387b8dfc95fbb4ae125" sys_domain="global" table="x_2048625_catalo_0_requested_task" version="3">
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>0</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2026-11-27 13:34:13</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>05e8dccf248b489fbc9ba9d3cfc434bd</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_2048625_catalo_0_requested_task" name="x_2048625_catalo_0_requested_task" sys_domain="global" view="Default view">6c0da6b52c514387b8dfc95fbb4ae125</sys_ui_form>
+            <sys_ui_section caption="Requested Catalog Task" display_value="Requested Catalog Task" name="x_2048625_catalo_0_requested_task" sys_domain="global" view="Default view">ba5f77dade9d4817ac94c5e653a2f676</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2026-11-27 13:34:13</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form action="INSERT_OR_UPDATE">
+            <name>x_2048625_catalo_0_requested_task</name>
+            <roles/>
+            <sys_class_name>sys_ui_form</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2026-11-27 13:34:13</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>6c0da6b52c514387b8dfc95fbb4ae125</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>x_2048625_catalo_0_requested_task</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="Catalog Item Idea Intake" source="x_2048625_catalo_0">9ab35e7593bc9310e8b0f14fdd03d669</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Catalog Item Idea Intake">9ab35e7593bc9310e8b0f14fdd03d669</sys_scope>
+            <sys_update_name>sys_ui_form_sections_6c0da6b52c514387b8dfc95fbb4ae125</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2026-11-27 13:34:13</sys_updated_on>
+            <sys_user/>
+            <view display_value="Default view" name="NULL">Default view</view>
+            <view_name/>
+        </sys_ui_form>
+    </sys_ui_form_sections>
+</record_update>
