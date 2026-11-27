@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl_role">
+    <sys_security_acl_role action="INSERT_OR_UPDATE">
+        <sys_class_name>sys_security_acl_role</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2026-11-27 13:34:13</sys_created_on>
+        <sys_id>e7eff3fe0f0147548afecc77fc057477</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_2048625_catalo_0_catalog_item_idea.x_2048625_catalo_0.catalog_idea_manager</sys_name>
+        <sys_package display_value="Catalog Item Idea Intake" source="x_2048625_catalo_0">9ab35e7593bc9310e8b0f14fdd03d669</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Catalog Item Idea Intake">9ab35e7593bc9310e8b0f14fdd03d669</sys_scope>
+        <sys_security_acl display_value="x_2048625_catalo_0_catalog_item_idea">09348a3d8e8044d68c33d5ef04e82ad0</sys_security_acl>
+        <sys_update_name>sys_security_acl_role_e7eff3fe0f0147548afecc77fc057477</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2026-11-27 13:34:13</sys_updated_on>
+        <sys_user_role display_value="x_2048625_catalo_0.catalog_idea_manager" name="x_2048625_catalo_0.catalog_idea_manager">c68f24efb61f474b8c5a425386e64e0e</sys_user_role>
+    </sys_security_acl_role>
+</record_update>
