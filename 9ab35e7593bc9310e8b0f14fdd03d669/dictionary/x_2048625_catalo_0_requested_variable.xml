@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element attributes="enforce_dot_walk_cross_scope_access=true,no_attachment=false" audit="true" db_object_id="1e746e045da64b02920850bb5f18e20c" label="Requested Variable" name="x_2048625_catalo_0_requested_variable" type="collection">
+        <element label="Catalog Item Idea" mandatory="true" name="idea" reference="x_2048625_catalo_0_catalog_item_idea" reference_cascade_rule="cascade" type="reference"/>
+        <element choice="3" default="single_line_text" label="Variable Type" name="variable_type" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="Numeric" sequence="1100" value="numeric"/>
+                <element inactive_on_update="false" label="Checkbox" sequence="400" value="checkbox"/>
+                <element inactive_on_update="false" label="Date/Time" sequence="700" value="date_time"/>
+                <element inactive_on_update="false" label="Multi Line Text" sequence="200" value="multi_line_text"/>
+                <element inactive_on_update="false" label="Single Line Text" sequence="100" value="single_line_text"/>
+                <element inactive_on_update="false" label="Reference" sequence="500" value="reference"/>
+                <element inactive_on_update="false" label="Label" sequence="1000" value="label"/>
+                <element inactive_on_update="false" label="Date" sequence="600" value="date"/>
+                <element inactive_on_update="false" label="Lookup Select Box" sequence="800" value="lookup_select_box"/>
+                <element inactive_on_update="false" label="Attachment" sequence="900" value="attachment"/>
+                <element inactive_on_update="false" label="Select Box" sequence="300" value="select_box"/>
+            </choice>
+        </element>
+        <element hint="Only relevant for reference and lookup variable types" label="Reference Table" max_length="80" name="reference_table" type="string"/>
+        <element hint="One choice per line, for select box and lookup types" label="Choice Values" max_length="1000" name="choice_values" type="multi_two_lines"/>
+        <element display="true" label="Question Label" mandatory="true" max_length="100" name="question_label" type="string"/>
+        <element label="Help Text" max_length="255" name="help_text" type="string"/>
+        <element label="Mandatory" name="mandatory" type="boolean"/>
+        <element label="Default Value" max_length="255" name="default_value" type="string"/>
+        <element hint="Suggested technical name for the variable" label="Variable Name" max_length="80" name="variable_name" type="string"/>
+        <element default="100" label="Order" name="order" type="integer"/>
+        <index name="index">
+            <element name="idea"/>
+        </index>
+    </element>
+</database>

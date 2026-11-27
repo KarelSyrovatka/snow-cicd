@@ -1,0 +1,211 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_section caption="Requested Variable" section_id="d9e5eef9126d464b83d99321368b3a78" sys_domain="global" table="x_2048625_catalo_0_requested_variable" version="3" view="">
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.begin_split</element>
+            <position>0</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2026-11-27 13:34:15</sys_created_on>
+            <sys_id>81ec44ce5ee246eea51bbb09a71b1791</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Requested Variable" display_value="Requested Variable" name="x_2048625_catalo_0_requested_variable" sys_domain="global" view="Default view">d9e5eef9126d464b83d99321368b3a78</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2026-11-27 13:34:15</sys_updated_on>
+            <sys_user/>
+            <type>.begin_split</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>idea</element>
+            <position>1</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2026-11-27 13:34:15</sys_created_on>
+            <sys_id>1b09d6965ca044bfa38d11b9fe714441</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Requested Variable" display_value="Requested Variable" name="x_2048625_catalo_0_requested_variable" sys_domain="global" view="Default view">d9e5eef9126d464b83d99321368b3a78</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2026-11-27 13:34:15</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>order</element>
+            <position>2</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2026-11-27 13:34:15</sys_created_on>
+            <sys_id>22ec004e158b4dd98eeeab471f847258</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Requested Variable" display_value="Requested Variable" name="x_2048625_catalo_0_requested_variable" sys_domain="global" view="Default view">d9e5eef9126d464b83d99321368b3a78</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2026-11-27 13:34:15</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>question_label</element>
+            <position>3</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2026-11-27 13:34:15</sys_created_on>
+            <sys_id>c9fedb38e83645378bae4c7c47c959d2</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Requested Variable" display_value="Requested Variable" name="x_2048625_catalo_0_requested_variable" sys_domain="global" view="Default view">d9e5eef9126d464b83d99321368b3a78</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2026-11-27 13:34:15</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>variable_name</element>
+            <position>4</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2026-11-27 13:34:15</sys_created_on>
+            <sys_id>955f358769b344f59c972a3a55bc5416</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Requested Variable" display_value="Requested Variable" name="x_2048625_catalo_0_requested_variable" sys_domain="global" view="Default view">d9e5eef9126d464b83d99321368b3a78</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2026-11-27 13:34:15</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.split</element>
+            <position>5</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2026-11-27 13:34:15</sys_created_on>
+            <sys_id>19d7b01faae642d5a26e19780852e63b</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Requested Variable" display_value="Requested Variable" name="x_2048625_catalo_0_requested_variable" sys_domain="global" view="Default view">d9e5eef9126d464b83d99321368b3a78</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2026-11-27 13:34:15</sys_updated_on>
+            <sys_user/>
+            <type>.split</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>variable_type</element>
+            <position>6</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2026-11-27 13:34:15</sys_created_on>
+            <sys_id>3e6ae30058a0458aae0fa3122cdc0c87</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Requested Variable" display_value="Requested Variable" name="x_2048625_catalo_0_requested_variable" sys_domain="global" view="Default view">d9e5eef9126d464b83d99321368b3a78</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2026-11-27 13:34:15</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>mandatory</element>
+            <position>7</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2026-11-27 13:34:15</sys_created_on>
+            <sys_id>fb216101f8b7490ba8e9babfc4786625</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Requested Variable" display_value="Requested Variable" name="x_2048625_catalo_0_requested_variable" sys_domain="global" view="Default view">d9e5eef9126d464b83d99321368b3a78</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2026-11-27 13:34:15</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>reference_table</element>
+            <position>8</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2026-11-27 13:34:15</sys_created_on>
+            <sys_id>62bcd0c88d9146d79528ddb6fccc37f1</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Requested Variable" display_value="Requested Variable" name="x_2048625_catalo_0_requested_variable" sys_domain="global" view="Default view">d9e5eef9126d464b83d99321368b3a78</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2026-11-27 13:34:15</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>default_value</element>
+            <position>9</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2026-11-27 13:34:15</sys_created_on>
+            <sys_id>72f3b8047a1a475898ac26add3b87bdc</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Requested Variable" display_value="Requested Variable" name="x_2048625_catalo_0_requested_variable" sys_domain="global" view="Default view">d9e5eef9126d464b83d99321368b3a78</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2026-11-27 13:34:15</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.end_split</element>
+            <position>10</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2026-11-27 13:34:15</sys_created_on>
+            <sys_id>ada3a7176a5d487980cb954d8808f3f3</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Requested Variable" display_value="Requested Variable" name="x_2048625_catalo_0_requested_variable" sys_domain="global" view="Default view">d9e5eef9126d464b83d99321368b3a78</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2026-11-27 13:34:15</sys_updated_on>
+            <sys_user/>
+            <type>.end_split</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>choice_values</element>
+            <position>11</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2026-11-27 13:34:15</sys_created_on>
+            <sys_id>0f2ae044f4ca4dddb3b4ae1335e8fbb3</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Requested Variable" display_value="Requested Variable" name="x_2048625_catalo_0_requested_variable" sys_domain="global" view="Default view">d9e5eef9126d464b83d99321368b3a78</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2026-11-27 13:34:15</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>help_text</element>
+            <position>12</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2026-11-27 13:34:15</sys_created_on>
+            <sys_id>cf50440950a74030a472f7bcda7fbefc</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Requested Variable" display_value="Requested Variable" name="x_2048625_catalo_0_requested_variable" sys_domain="global" view="Default view">d9e5eef9126d464b83d99321368b3a78</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2026-11-27 13:34:15</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_section action="INSERT_OR_UPDATE">
+            <caption>Requested Variable</caption>
+            <header>false</header>
+            <name>x_2048625_catalo_0_requested_variable</name>
+            <roles/>
+            <sys_class_name>sys_ui_section</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2026-11-27 13:34:15</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>d9e5eef9126d464b83d99321368b3a78</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>x_2048625_catalo_0_requested_variable</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="Catalog Item Idea Intake" source="x_2048625_catalo_0">9ab35e7593bc9310e8b0f14fdd03d669</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Catalog Item Idea Intake">9ab35e7593bc9310e8b0f14fdd03d669</sys_scope>
+            <sys_update_name>sys_ui_section_d9e5eef9126d464b83d99321368b3a78</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2026-11-27 13:34:15</sys_updated_on>
+            <sys_user/>
+            <title>false</title>
+            <view display_value="Default view" name="NULL">Default view</view>
+            <view_name/>
+        </sys_ui_section>
+    </sys_ui_section>
+</record_update>

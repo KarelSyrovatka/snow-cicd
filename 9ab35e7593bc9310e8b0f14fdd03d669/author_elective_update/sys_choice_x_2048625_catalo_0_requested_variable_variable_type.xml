@@ -1,0 +1,228 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_choice action="INSERT_OR_UPDATE" field="variable_type" table="x_2048625_catalo_0_requested_variable" version="3">
+        <sys_choice_set action="INSERT_OR_UPDATE">
+            <element>variable_type</element>
+            <name>x_2048625_catalo_0_requested_variable</name>
+            <sys_class_name>sys_choice_set</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2026-11-27 13:34:09</sys_created_on>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>variable_type</sys_name>
+            <sys_package display_value="Catalog Item Idea Intake" source="x_2048625_catalo_0">9ab35e7593bc9310e8b0f14fdd03d669</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Catalog Item Idea Intake">9ab35e7593bc9310e8b0f14fdd03d669</sys_scope>
+            <sys_update_name>sys_choice_x_2048625_catalo_0_requested_variable_variable_type</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2026-11-27 13:34:09</sys_updated_on>
+        </sys_choice_set>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>variable_type</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Single Line Text</label>
+            <language>en</language>
+            <name>x_2048625_catalo_0_requested_variable</name>
+            <sequence>100</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2026-11-27 13:34:09</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2026-11-27 13:34:09</sys_updated_on>
+            <value>single_line_text</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>variable_type</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Multi Line Text</label>
+            <language>en</language>
+            <name>x_2048625_catalo_0_requested_variable</name>
+            <sequence>200</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2026-11-27 13:34:09</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2026-11-27 13:34:09</sys_updated_on>
+            <value>multi_line_text</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>variable_type</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Select Box</label>
+            <language>en</language>
+            <name>x_2048625_catalo_0_requested_variable</name>
+            <sequence>300</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2026-11-27 13:34:09</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2026-11-27 13:34:09</sys_updated_on>
+            <value>select_box</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>variable_type</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Checkbox</label>
+            <language>en</language>
+            <name>x_2048625_catalo_0_requested_variable</name>
+            <sequence>400</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2026-11-27 13:34:09</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2026-11-27 13:34:09</sys_updated_on>
+            <value>checkbox</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>variable_type</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Reference</label>
+            <language>en</language>
+            <name>x_2048625_catalo_0_requested_variable</name>
+            <sequence>500</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2026-11-27 13:34:09</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2026-11-27 13:34:09</sys_updated_on>
+            <value>reference</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>variable_type</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Date</label>
+            <language>en</language>
+            <name>x_2048625_catalo_0_requested_variable</name>
+            <sequence>600</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2026-11-27 13:34:09</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2026-11-27 13:34:09</sys_updated_on>
+            <value>date</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>variable_type</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Date/Time</label>
+            <language>en</language>
+            <name>x_2048625_catalo_0_requested_variable</name>
+            <sequence>700</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2026-11-27 13:34:09</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2026-11-27 13:34:09</sys_updated_on>
+            <value>date_time</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>variable_type</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Lookup Select Box</label>
+            <language>en</language>
+            <name>x_2048625_catalo_0_requested_variable</name>
+            <sequence>800</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2026-11-27 13:34:09</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2026-11-27 13:34:09</sys_updated_on>
+            <value>lookup_select_box</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>variable_type</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Attachment</label>
+            <language>en</language>
+            <name>x_2048625_catalo_0_requested_variable</name>
+            <sequence>900</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2026-11-27 13:34:09</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2026-11-27 13:34:09</sys_updated_on>
+            <value>attachment</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>variable_type</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Label</label>
+            <language>en</language>
+            <name>x_2048625_catalo_0_requested_variable</name>
+            <sequence>1000</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2026-11-27 13:34:09</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2026-11-27 13:34:09</sys_updated_on>
+            <value>label</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>variable_type</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Numeric</label>
+            <language>en</language>
+            <name>x_2048625_catalo_0_requested_variable</name>
+            <sequence>1100</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2026-11-27 13:34:09</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2026-11-27 13:34:09</sys_updated_on>
+            <value>numeric</value>
+        </sys_choice>
+    </sys_choice>
+</record_update>

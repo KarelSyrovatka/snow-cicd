@@ -1,0 +1,183 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_section caption="Requested Catalog Task" section_id="ba5f77dade9d4817ac94c5e653a2f676" sys_domain="global" table="x_2048625_catalo_0_requested_task" version="3" view="">
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.begin_split</element>
+            <position>0</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2026-11-27 13:34:14</sys_created_on>
+            <sys_id>69f05ca0c6ed44fdbdf3f830a1d63e5f</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Requested Catalog Task" display_value="Requested Catalog Task" name="x_2048625_catalo_0_requested_task" sys_domain="global" view="Default view">ba5f77dade9d4817ac94c5e653a2f676</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2026-11-27 13:34:14</sys_updated_on>
+            <sys_user/>
+            <type>.begin_split</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>idea</element>
+            <position>1</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2026-11-27 13:34:14</sys_created_on>
+            <sys_id>55c060ae81f149d89c1065b194ce68c2</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Requested Catalog Task" display_value="Requested Catalog Task" name="x_2048625_catalo_0_requested_task" sys_domain="global" view="Default view">ba5f77dade9d4817ac94c5e653a2f676</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2026-11-27 13:34:14</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>order</element>
+            <position>2</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2026-11-27 13:34:14</sys_created_on>
+            <sys_id>3ce8e820c162474ebf756aa701e20ff5</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Requested Catalog Task" display_value="Requested Catalog Task" name="x_2048625_catalo_0_requested_task" sys_domain="global" view="Default view">ba5f77dade9d4817ac94c5e653a2f676</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2026-11-27 13:34:14</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>short_description</element>
+            <position>3</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2026-11-27 13:34:14</sys_created_on>
+            <sys_id>6aa2804c52f144058069b8f8654d0b5e</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Requested Catalog Task" display_value="Requested Catalog Task" name="x_2048625_catalo_0_requested_task" sys_domain="global" view="Default view">ba5f77dade9d4817ac94c5e653a2f676</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2026-11-27 13:34:14</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.split</element>
+            <position>4</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2026-11-27 13:34:14</sys_created_on>
+            <sys_id>a0bbf8bec9144a869ad8f829898d263e</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Requested Catalog Task" display_value="Requested Catalog Task" name="x_2048625_catalo_0_requested_task" sys_domain="global" view="Default view">ba5f77dade9d4817ac94c5e653a2f676</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2026-11-27 13:34:14</sys_updated_on>
+            <sys_user/>
+            <type>.split</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>assignment_group</element>
+            <position>5</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2026-11-27 13:34:15</sys_created_on>
+            <sys_id>17d2808bf490437c996ae9fd361e6180</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Requested Catalog Task" display_value="Requested Catalog Task" name="x_2048625_catalo_0_requested_task" sys_domain="global" view="Default view">ba5f77dade9d4817ac94c5e653a2f676</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2026-11-27 13:34:15</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>assigned_to</element>
+            <position>6</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2026-11-27 13:34:15</sys_created_on>
+            <sys_id>a271d5db658d41f58347a435f695a185</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Requested Catalog Task" display_value="Requested Catalog Task" name="x_2048625_catalo_0_requested_task" sys_domain="global" view="Default view">ba5f77dade9d4817ac94c5e653a2f676</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2026-11-27 13:34:15</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>wait_for_previous</element>
+            <position>7</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2026-11-27 13:34:15</sys_created_on>
+            <sys_id>dda83187364f431ca4112b616c146ea0</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Requested Catalog Task" display_value="Requested Catalog Task" name="x_2048625_catalo_0_requested_task" sys_domain="global" view="Default view">ba5f77dade9d4817ac94c5e653a2f676</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2026-11-27 13:34:15</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.end_split</element>
+            <position>8</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2026-11-27 13:34:15</sys_created_on>
+            <sys_id>510046584ea945caa2e8f2a98fd40f8d</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Requested Catalog Task" display_value="Requested Catalog Task" name="x_2048625_catalo_0_requested_task" sys_domain="global" view="Default view">ba5f77dade9d4817ac94c5e653a2f676</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2026-11-27 13:34:15</sys_updated_on>
+            <sys_user/>
+            <type>.end_split</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>condition</element>
+            <position>9</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2026-11-27 13:34:15</sys_created_on>
+            <sys_id>010d9423d48b4a2788ad3abc1e72d6b5</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Requested Catalog Task" display_value="Requested Catalog Task" name="x_2048625_catalo_0_requested_task" sys_domain="global" view="Default view">ba5f77dade9d4817ac94c5e653a2f676</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2026-11-27 13:34:15</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>description</element>
+            <position>10</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2026-11-27 13:34:15</sys_created_on>
+            <sys_id>706b76e62483456f93e7d1a7b568a4d5</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Requested Catalog Task" display_value="Requested Catalog Task" name="x_2048625_catalo_0_requested_task" sys_domain="global" view="Default view">ba5f77dade9d4817ac94c5e653a2f676</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2026-11-27 13:34:15</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_section action="INSERT_OR_UPDATE">
+            <caption>Requested Catalog Task</caption>
+            <header>false</header>
+            <name>x_2048625_catalo_0_requested_task</name>
+            <roles/>
+            <sys_class_name>sys_ui_section</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2026-11-27 13:34:15</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>ba5f77dade9d4817ac94c5e653a2f676</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>x_2048625_catalo_0_requested_task</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="Catalog Item Idea Intake" source="x_2048625_catalo_0">9ab35e7593bc9310e8b0f14fdd03d669</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Catalog Item Idea Intake">9ab35e7593bc9310e8b0f14fdd03d669</sys_scope>
+            <sys_update_name>sys_ui_section_ba5f77dade9d4817ac94c5e653a2f676</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2026-11-27 13:34:15</sys_updated_on>
+            <sys_user/>
+            <title>false</title>
+            <view display_value="Default view" name="NULL">Default view</view>
+            <view_name/>
+        </sys_ui_section>
+    </sys_ui_section>
+</record_update>

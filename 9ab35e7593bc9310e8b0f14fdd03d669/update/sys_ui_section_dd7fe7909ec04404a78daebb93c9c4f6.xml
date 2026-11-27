@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_section caption="Requirements" section_id="dd7fe7909ec04404a78daebb93c9c4f6" sys_domain="global" table="x_2048625_catalo_0_catalog_item_idea" version="3" view="">
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>long_description</element>
+            <position>0</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2026-11-27 13:34:15</sys_created_on>
+            <sys_id>cced9d6d8a804876bf252108c54ef89c</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Requirements" display_value="Requirements" name="x_2048625_catalo_0_catalog_item_idea" sys_domain="global" view="Default view">dd7fe7909ec04404a78daebb93c9c4f6</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2026-11-27 13:34:15</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>business_justification</element>
+            <position>1</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2026-11-27 13:34:15</sys_created_on>
+            <sys_id>b62c5361c1dc4acabd23891c5daeddc3</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Requirements" display_value="Requirements" name="x_2048625_catalo_0_catalog_item_idea" sys_domain="global" view="Default view">dd7fe7909ec04404a78daebb93c9c4f6</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2026-11-27 13:34:15</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>approval_flow_definition</element>
+            <position>2</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2026-11-27 13:34:15</sys_created_on>
+            <sys_id>4828349c01c443859edb8483a3780617</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Requirements" display_value="Requirements" name="x_2048625_catalo_0_catalog_item_idea" sys_domain="global" view="Default view">dd7fe7909ec04404a78daebb93c9c4f6</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2026-11-27 13:34:15</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>additional_notes</element>
+            <position>3</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2026-11-27 13:34:15</sys_created_on>
+            <sys_id>a01752c58e1b41d9b98b29f319385d15</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Requirements" display_value="Requirements" name="x_2048625_catalo_0_catalog_item_idea" sys_domain="global" view="Default view">dd7fe7909ec04404a78daebb93c9c4f6</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2026-11-27 13:34:15</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_section action="INSERT_OR_UPDATE">
+            <caption>Requirements</caption>
+            <header>false</header>
+            <name>x_2048625_catalo_0_catalog_item_idea</name>
+            <roles/>
+            <sys_class_name>sys_ui_section</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2026-11-27 13:34:15</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>dd7fe7909ec04404a78daebb93c9c4f6</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>x_2048625_catalo_0_catalog_item_idea</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="Catalog Item Idea Intake" source="x_2048625_catalo_0">9ab35e7593bc9310e8b0f14fdd03d669</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Catalog Item Idea Intake">9ab35e7593bc9310e8b0f14fdd03d669</sys_scope>
+            <sys_update_name>sys_ui_section_dd7fe7909ec04404a78daebb93c9c4f6</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2026-11-27 13:34:15</sys_updated_on>
+            <sys_user/>
+            <title>false</title>
+            <view display_value="Default view" name="NULL">Default view</view>
+            <view_name/>
+        </sys_ui_section>
+    </sys_ui_section>
+</record_update>
