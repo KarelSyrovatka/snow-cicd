@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element attributes="enforce_dot_walk_cross_scope_access=true,no_attachment=false" audit="true" db_object_id="4308e04d6fbd4cffb3e51d3231a33c6c" label="Requested Catalog Task" name="x_2048625_catalo_0_requested_task" type="collection">
+        <element label="Assignment Group" name="assignment_group" reference="sys_user_group" type="reference"/>
+        <element label="Catalog Item Idea" mandatory="true" name="idea" reference="x_2048625_catalo_0_catalog_item_idea" reference_cascade_rule="cascade" type="reference"/>
+        <element display="true" label="Short Description" mandatory="true" max_length="160" name="short_description" type="string"/>
+        <element default="100" label="Order" name="order" type="integer"/>
+        <element hint="When this task should be created" label="Condition" max_length="255" name="condition" type="string"/>
+        <element label="Assigned To" name="assigned_to" reference="sys_user" type="reference"/>
+        <element default="true" hint="Run sequentially after the prior task" label="Wait For Previous" name="wait_for_previous" type="boolean"/>
+        <element hint="Work instructions for the fulfiller" label="Description" max_length="4000" name="description" type="multi_two_lines"/>
+        <index name="index">
+            <element name="assigned_to"/>
+        </index>
+        <index name="index2">
+            <element name="assignment_group"/>
+        </index>
+        <index name="index3">
+            <element name="idea"/>
+        </index>
+    </element>
+</database>
